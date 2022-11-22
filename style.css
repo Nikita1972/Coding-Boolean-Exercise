@@ -1,0 +1,10 @@
+.container{width 1000px; margin: auto;}
+.logo{width: 100px}
+#search{width: 400px}
+#unread count{color: red; background-color: orange; border-radius: 50%; padding: 5px}
+.read{background-position: lightgrey}
+.unread{background-color: lightgrey}
+.subject{color: blackl}
+.body {color: lightgrey}
+.row-left{display: inline-block; width: 30%}
+.row-right{display: inline-block; width: 68%}
